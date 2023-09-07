@@ -2,7 +2,7 @@
 This repository has the project english_words, it allows to find all of the English words in a given string.
 
 
-## Description
+## 📝 Description
 The idea is the project has a dictionary that returns boolean true if the string passed to it is an English word, return
 false otherwise.
 
