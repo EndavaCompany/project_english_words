@@ -20,7 +20,7 @@ It works:
 
 ![](src/main/resources/use_java.jpg)
 
-## 💻 Datos técnicos
+## 💻 Technical information
 
 ![](src/main/resources/junit_mockito.png)
 
