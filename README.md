@@ -5,6 +5,7 @@ This repository has the project english_words, it allows to find all of the Engl
 ## Description
 The idea is the project has a dictionary that returns boolean true if the string passed to it is an English word, return
 false otherwise.
+
 ![](src/main/resources/dictionary.png)
 
 ## 🤖 Using Dictionary
